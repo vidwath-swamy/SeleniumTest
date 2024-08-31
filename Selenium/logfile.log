@@ -1,0 +1,15 @@
+2021-12-27 20:45:24,212 : WARNING : test_logging : All warnings will be stored here
+2021-12-27 20:45:24,212 : ERROR : test_logging : All errors will be stored here
+2021-12-27 20:45:24,212 : CRITICAL : test_logging : Any critical defects which halt the progress of the testrun will be stored here
+2021-12-27 20:45:52,324 : WARNING : test_logging : All warnings will be stored here
+2021-12-27 20:45:52,324 : ERROR : test_logging : All errors will be stored here
+2021-12-27 20:45:52,324 : CRITICAL : test_logging : Any critical defects which halt the progress of the testrun will be stored here
+2021-12-27 20:46:35,656 : INFO : test_logging : This logs the data of all the info of a particular testcase
+2021-12-27 20:46:35,656 : WARNING : test_logging : All warnings will be stored here
+2021-12-27 20:46:35,657 : ERROR : test_logging : All errors will be stored here
+2021-12-27 20:46:35,657 : CRITICAL : test_logging : Any critical defects which halt the progress of the testrun will be stored here
+2021-12-27 20:47:17,748 : DEBUG : test_logging : This logs the data from the debug section of the testcase
+2021-12-27 20:47:17,748 : INFO : test_logging : This logs the data of all the info of a particular testcase
+2021-12-27 20:47:17,748 : WARNING : test_logging : All warnings will be stored here
+2021-12-27 20:47:17,748 : ERROR : test_logging : All errors will be stored here
+2021-12-27 20:47:17,748 : CRITICAL : test_logging : Any critical defects which halt the progress of the testrun will be stored here
